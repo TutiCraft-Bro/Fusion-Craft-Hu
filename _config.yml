@@ -1,6 +1,1 @@
 theme: jekyll-theme-hacker
-$ dig WWW.fusioncraft.ml +nostats +nocomments +nocmd
-    > ;www.fusioncraft.ml.                     IN      A
-    >www.fusioncraft.ml.             3592    IN      CNAME   YOUR-USERNAME.github.io.
-    > TutiCraft-Bro.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
